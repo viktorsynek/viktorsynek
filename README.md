@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, my name is Viktor Synek</h1>
+<h1 align="center">Hello World 👋, my name is Viktor Synek</h1>
 <h3 align="center">I'm learning Software Engineering</h3>
 
 <p align="left"> <a href="https://twitter.com/vanonyms" target="blank"><img src="https://img.shields.io/twitter/follow/vanonyms?logo=twitter&style=for-the-badge" alt="vanonyms" /></a> </p>
