@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/vanonyms" target="blank"><img src="https://img.shields.io/twitter/follow/vanonyms?logo=twitter&style=for-the-badge" alt="vanonyms" /></a> </p>
 
-- 🔭 I’m currently doing a **30 Days - 30 Projects challenge**
+- 🔭 I’m currently doing a **10 Days - 10 Projects challenge in Python**
 
 - 📌 I’m currently learning **Algorithms and Data Structures**
 
