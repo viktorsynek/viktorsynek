@@ -15,7 +15,7 @@
 <a href="https://twitter.com/vanonyms" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vanonyms" height="30" width="40" /></a>
 <a href="https://dev.to/viktorsynek" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vanonym" height="30" width="40" /></a>
 <a href="https://codepen.io/viktorsynek" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="viktorsynek" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UChsmR1v2DelxINJ_TUtdV6A" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="axd" height="30" width="40" /></a>
+<a href="ttps://www.youtube.com/channel/UCuRRvG-P7uZcG571zY9qUBQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="axd" height="30" width="40" /></a>
 </p>
 
 
