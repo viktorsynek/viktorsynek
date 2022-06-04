@@ -11,9 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/UCuRRvG-P7uZcG571zY9qUBQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="viktor-synek-86a331228" height="30" width="40" /></a>
-<a href="https://twitter.com/vanonyms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vanonyms" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/viktor-synek-86a331228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viktor-synek-86a331228" height="30" width="40" /></a>
+<a href="https://twitter.com/vanonyms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vanonyms" height="30" width="40" /></a>
+<a href="https://dev.to/vanonym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vanonym" height="30" width="40" /></a>
+<a href="https://codepen.io/viktorsynek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="viktorsynek" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/axd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="axd" height="30" width="40" /></a>
 </p>
 
 
