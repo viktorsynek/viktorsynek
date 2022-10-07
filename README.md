@@ -3,18 +3,16 @@
 
 <p align="left"> <a href="https://twitter.com/vanonyms" target="blank"><img src="https://img.shields.io/twitter/follow/vanonyms?logo=twitter&style=for-the-badge" alt="vanonyms" /></a> </p>
 
-- 🔭 I recently did a **10 Days - 10 Projects challenge in Python**. Checkout my respositories
+- 🔭 I did a **10 Days - 10 Projects challenge in Python**. You can check them out in my respositories
 
-- 📌 I’m currently learning **Algorithms and Data Structures**
+- 📌 I’m currently learning **C++**
 
-- 📫 Contact mail: **ktor.syn@gmail.com**
+- 📫 Contact mail: **viktor.synek03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/viktor-synek-86a331228" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viktor-synek-86a331228" height="30" width="40" /></a>
-<a href="https://twitter.com/vanonyms" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vanonyms" height="30" width="40" /></a>
-<a href="https://dev.to/viktorsynek" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vanonym" height="30" width="40" /></a>
-<a href="https://codepen.io/viktorsynek" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="viktorsynek" height="30" width="40" /></a>
+<a href="https://twitter.com/viktorsynn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vanonyms" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCuRRvG-P7uZcG571zY9qUBQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="axd" height="30" width="40" /></a>
 </p>
 
