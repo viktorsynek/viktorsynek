@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, my name is Viktor Synek</h1>
 <h3 align="center">I'm learning Software Engineering</h3>
 
-<p align="left"> <a href="https://twitter.com/viktorsynn" target="blank"><img src="https://img.shields.io/twitter/follow/vanonyms?logo=twitter&style=for-the-badge" alt="vanonyms" /></a> </p>
+<p align="left"> <a href="https://twitter.com/viktorsynn" target="blank"><img src="https://img.shields.io/twitter/follow/vanonyms?logo=twitter&style=for-the-badge" alt="viktorsynn" /></a> </p>
 
 - 🔭 I did a **10 Days - 10 Projects challenge in Python**. You can check them out in my respositories
 
