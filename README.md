@@ -7,7 +7,7 @@
 
 - 📌 I’m currently learning **M.E.R.N Stack**
 
-- 💻 <a target="_blank" href="https://viktorsynek.com">Portfolio site</a>
+- 💻 <a target="_blank" href="https://viktorsynek.com" rel="noreferrer">Portfolio site</a>
 
 - 🐍 I did a **10 Days - 10 Projects challenge in Python**. You can check them out in my respositories
 
