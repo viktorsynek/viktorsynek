@@ -9,6 +9,8 @@
 
 - 💻 <a target="_blank" href="https://viktorsynek.com" rel="noreferrer">Portfolio site</a>
 
+<a href="https://twitter.com/vyspm" target="_blank"> test </a>
+
 - 🐍 I did a **10 Days - 10 Projects challenge in Python**. You can check them out in my respositories
 
 <h3 align="left">Connect with me:</h3>
