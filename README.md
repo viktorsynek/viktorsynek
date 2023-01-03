@@ -1,13 +1,13 @@
 <h1 align="center">Hello World 👋, my name is Viktor Synek</h1>
 <h3 align="center">I'm a (Full-Stack) Software Engineer</h3>
 
-<p align="left"> <a href="https://twitter.com/vyspm" target="_blank"><img src="https://img.shields.io/twitter/follow/vanonyms?logo=twitter&style=for-the-badge" alt="vyspm" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vyspm" target="_blank"><img src="https://img.shields.io/twitter/follow/vyspm?logo=twitter&style=for-the-badge" alt="vyspm" /></a> </p>
 
 
 
 - 📌 I’m currently learning **M.E.R.N Stack**
 
-- 💻 <a href="https://viktorsynek.com" target="_blank">Portfolio site</a>
+- 💻 <a target="_blank" href="https://viktorsynek.com">Portfolio site</a>
 
 - 🐍 I did a **10 Days - 10 Projects challenge in Python**. You can check them out in my respositories
 
