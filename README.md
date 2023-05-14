@@ -5,7 +5,7 @@
 
 
 
-- 📌 I’m currently learning **M.E.R.N Stack**
+- 📌 I’m currently learning **Back-end Web Development**
 
 - 💻 <a target="_blank" href="https://viktorsynek.com" rel="noreferrer">Portfolio site</a>
 
