@@ -1,11 +1,11 @@
 <h1 align="center">Hello World 👋, my name is Viktor Synek</h1>
-<h3 align="center">I'm a (Full-Stack) Software Engineer</h3>
+<h3 align="center">Software Developer from Slovakia</h3>
 
 <p align="left"> <a href="https://twitter.com/vyspm" target="_blank"><img src="https://img.shields.io/twitter/follow/vyspm?logo=twitter&style=for-the-badge" alt="vyspm" /></a> </p>
 
 
 
-- 📌 I’m currently learning **Back-end Web Development**
+- 📌 I’m currently studying **Computer Science** at Széchenyi István University.
 
 - 💻 <a target="_blank" href="https://viktorsynek.com" rel="noreferrer">Portfolio site</a>
 
