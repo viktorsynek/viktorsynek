@@ -11,11 +11,13 @@
 
 - 💻 Working on a project as a Front-end developer.
 
+- 📩 business@viktorsynek.com
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/viktor-synek-86a331228" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viktor-synek" height="30" width="40" /></a>
-<a href="https://twitter.com/vyspm" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vyspm" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@vyspm" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="axd" height="30" width="40" /></a>
+<a href="https://twitter.com/synekviktor" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vyspm" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@viktorwritescode" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="axd" height="30" width="40" /></a>
 </p>
 
 
