@@ -7,9 +7,9 @@
 
 - 📌 I’m currently studying **Computer Science** at Széchenyi István University.
 
-- 💻 <a target="_blank" href="https://viktorsynek.com" rel="noreferrer">Portfolio site</a>
-
 - 🐍 I did a **10 Days - 10 Projects challenge in Python**. You can check them out in my respositories
+
+- 💻 Working on a project as a Front-end developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
