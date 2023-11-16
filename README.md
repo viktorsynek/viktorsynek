@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, my name is Viktor Synek</h1>
 <h3 align="center">Software Developer from Slovakia</h3>
 
-<p align="left"> <a href="https://twitter.com/vyspm" target="_blank"><img src="https://img.shields.io/twitter/follow/vyspm?logo=twitter&style=for-the-badge" alt="vyspm" /></a> </p>
+<p align="left"> <a href="https://twitter.com/synekviktor" target="_blank"><img src="https://img.shields.io/twitter/follow/vyspm?logo=twitter&style=for-the-badge" alt="twitter" /></a> </p>
 
 
 
@@ -11,7 +11,7 @@
 
 - 💻 Working on a project as a Front-end developer.
 
-- 📩 business@viktorsynek.com
+- 📩 ktor.syn@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
