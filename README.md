@@ -5,9 +5,9 @@
 
 - 📌 I’m currently studying **Computer Science** at Széchenyi István University.
 
-- 🐍 I did a **10 Days - 10 Projects challenge in Python**. You can check them out in my respositories
+- 🐍 I did a **10 Days - 10 Projects challenge in Python**. You can check them out in my respositories.
 
-- 💻 Working on full-stack projects.
+- 💻 Working on Full-Stack projects using MERN Stack & TypeScript.
 
 - 📩 viktor.synek03@gmail.com
 
