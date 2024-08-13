@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, my name is Viktor Synek</h1>
-<h3 align="center">Software Developer from Slovakia</h3>
+<h3 align="center">Full-Stack Web Developer from Slovakia</h3>
 
 
 
