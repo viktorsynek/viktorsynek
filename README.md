@@ -11,14 +11,16 @@
 
 - 📩 viktor.synek03@gmail.com
 
-<h1 align="left">Connect with me</h1>
-<p align="left">
-<a href="https://dev.to/viktorsynek" target="blank"><img align="center" src="https://www.svgrepo.com/show/349334/dev-to.svg" alt="viktorsynek" height="30" width="40" /></a>
-<a href="https://twitter.com/viktor__synek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="viktor__synek" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/viktor-synek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viktor-synek" height="30" width="40" /></a>
-</p>
 
-<h1 align="left">Experience</h1>
+<h1 align="left">// Socials</h1>
+
+|  LinkedIn  | DEV.to | Twitter | 
+| ------- |:----------:|:---------:|
+| <a href="https://linkedin.com/in/viktor-synek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viktor-synek" height="30" width="40" /></a> | <a href="https://dev.to/viktorsynek" target="blank"><img align="center" src="https://www.svgrepo.com/show/349334/dev-to.svg" alt="viktorsynek" height="30" width="40" /></a> | <a href="https://twitter.com/viktor__synek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="viktor__synek" height="30" width="40" /></a>|
+
+
+
+<h1 align="left">// Experience</h1>
   
 
 |  Tools  | Langauges | Front end | Back end |  Database  |
