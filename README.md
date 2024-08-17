@@ -7,12 +7,12 @@
 
 - 🐍 I did a **10 Days - 10 Projects challenge in Python**. You can check them out in my respositories.
 
-- 💻 Working on Full-Stack projects using MERN Stack & TypeScript.
+- 💻 Working on Full-Stack projects using PERN Stack & TypeScript.
 
 - 📩 viktor.synek03@gmail.com
 
 
-<h1 align="left">// Socials</h1>
+<h1 align="left">// socials</h1>
 
 |  LinkedIn  | DEV.to | Twitter | 
 | ------- |:----------:|:---------:|
@@ -20,7 +20,7 @@
 
 
 
-<h1 align="left">// Experience</h1>
+<h1 align="left">// experience</h1>
   
 
 |  Tools  | Langauges | Front end | Back end |  Database  |
