@@ -5,7 +5,7 @@
 
 - 🎮 Working on game projects
 
-- 💻 Studying: C++ | SFML | OpenGL
+- 💻 Studying: C++ | OpenGL | Unity
 
 - 📩 mail.viktorsynek@gmail.com
 
